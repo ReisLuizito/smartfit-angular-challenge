@@ -32,7 +32,7 @@ Para executar a aplicação localmente, siga os passos abaixo:
 1. Clone este repositório:
 
 ```bash
-  git clone https://github.com/Fernanda-Kipper/smartfit-frontend-challenge.git
+  git clone https://github.com/ReisLuizito/smartfit-angular-challenge.git
   cd smartfit-frontend-challenge
 
 ```
@@ -48,6 +48,3 @@ Para executar a aplicação localmente, siga os passos abaixo:
 ```bash
   npm start
 ```
-
-## Licença
-Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](./LICENSE) para obter mais detalhes.
